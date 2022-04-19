@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AppClone</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="myname">Rennie King</string>
+    <string name="info">personalised info here</string>
+    <string name="more_info">my horoscope is Aries</string>
+    <string name="more_info2">Lover of God</string>
+</resources>
